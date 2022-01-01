@@ -48,11 +48,13 @@
 .Sentence {
     z-index: 1;
     color: white;
+    font-size: large;
 }
 
 .container {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 input, select {
@@ -62,6 +64,7 @@ input, select {
     background: transparent;
     color: white;
     text-align: center;
+    font-size: large;
 }
 
 option {
@@ -70,4 +73,24 @@ option {
 
 input:focus, select:focus {
     border-color: lightgray;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    border:none;
+    border:solid 2px white;
+    border-radius: 5px;
+    background: rgba(255, 255, 255,0);
+    font-size: 16pt;
+    color: white;
+}
+
+button:hover {
+    color:lightgray; 
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
