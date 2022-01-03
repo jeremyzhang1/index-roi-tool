@@ -4,6 +4,10 @@ Submission for the Layer 3 Bounty here: https://alpha.layer3.xyz/task/build-a-ro
 
 Deployed site (using Firebase hosting): https://index-roi-tool.web.app/
 
+Price data for cryptocurrencies supplied by the [Coingecko API](https://www.coingecko.com/en/api)
+
+Background video clips are from the Apollo Moon Missions, courtesy of NASA Archives.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
