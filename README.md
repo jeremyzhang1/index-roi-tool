@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Index Coop ROI Tool
+
+Submission for the Layer 3 Bounty here: https://alpha.layer3.xyz/task/build-a-roi-tool-for-indexcoop
+
+Deployed site (using Firebase hosting): https://index-roi-tool.web.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
